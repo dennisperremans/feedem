@@ -7,11 +7,18 @@ It will test your layout to its maximum by testing its tolerance by dynamic cont
 
 ## How to use jsFeeder
 
+Install with npm
+
+```
+npm install jsFeed
+```
+
 Include the script right above the closing body tag.
 
 ```
 <script src="path/jsfeed.js"></script>
 ```
+
 
 Simple add data-feed attribute to your element to feed your elements with random content.
 Refresh your page and new content will be inserted into your elements.
