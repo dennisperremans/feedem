@@ -1,5 +1,5 @@
 
-# jsFeeder by Gojira
+# jsFeeder - test if your content breaks
 
 ## What can you do with jsFeeder?
 
