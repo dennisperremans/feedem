@@ -1,0 +1,17 @@
+.primary-footer {
+    padding: 2rem 0;
+    background: $grey--light;
+}
+
+.secondary-footer {
+    padding: .75rem 0;
+    background: $black--lighter;
+
+    font-size: $font-size--small;
+    color: $white;
+    text-align: center;
+
+    a {
+        color: $white;
+    }
+}

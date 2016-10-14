@@ -1,0 +1,80 @@
+.project {
+	position: relative;
+	width: 100%;
+
+	&--vluchtelingen {
+		background: url('../img/backgrounds/background--vluchtelingen.png') no-repeat center center;
+		background-size: cover;
+	}
+
+	&--daklozen {
+		background: url('../img/backgrounds/background--daklozen.png') no-repeat center center;
+		background-size: cover;
+	}
+
+	&--riviernatuur {
+		background: url('../img/backgrounds/background--vluchtelingen.png') no-repeat center center;
+		background-size: cover;
+	}
+
+	&--bonobos {
+		background: url('../img/backgrounds/background--daklozen.png') no-repeat center center;
+		background-size: cover;
+	}
+
+	&--weeskinderen {
+		background: url('../img/backgrounds/background--vluchtelingen.png') no-repeat center center;
+		background-size: cover;
+	}
+
+	&--water {
+		background: url('../img/backgrounds/background--daklozen.png') no-repeat center center;
+		background-size: cover;
+	}
+
+	&--mensenrechten {
+		background: url('../img/backgrounds/background--vluchtelingen.png') no-repeat center center;
+		background-size: cover;
+	}
+
+	&--straatkinderen {
+		background: url('../img/backgrounds/background--daklozen.png') no-repeat center center;
+		background-size: cover;
+	}
+}
+
+.project__intro {
+	margin-top: 20%;
+	margin-left: 10%;
+
+	color: $white;
+}
+
+.project__title {
+	max-width: 50rem;
+	margin-bottom: 3rem;
+}
+
+.slick-prev,
+.slick-next {
+	position: absolute;
+	top: -100000px;
+}
+
+.navigation-buttons {
+	position: absolute;
+	display: inline-block;
+	width: 170px;
+	bottom: 1.5rem;
+	left: 50%;
+	margin-left: -85px;
+
+	a {
+		@include transition(all, .3s, linear);
+	}
+
+	.close-project {
+		display: none;
+	}
+}
+
