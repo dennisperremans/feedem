@@ -21,7 +21,6 @@ Refresh your page and new content will be inserted in your elements.
 
 The content "Nav item 1" will be replaced with 2 random words
 
-
 #### Sentences
 
 ```
@@ -31,3 +30,15 @@ The content "Nav item 1" will be replaced with 2 random words
 ```
 
 The content between the div will be replaced with 5 sentences.
+
+#### Paragraphs
+
+Sometimes you want to insert paragraphs, jsFeed can do that for you by adding the p value
+
+```
+<div data-feed="p=2">
+    
+</div>
+```
+
+2 random paragraphs are added inside the div
