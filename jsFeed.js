@@ -1,3 +1,9 @@
+/*
+* jsFeed.js
+* author: Dennis Perremans
+* version: 0.0.2
+*/
+
 var site = {
     settings: {
         debug: false
@@ -85,10 +91,6 @@ var site = {
 };
 
 $(function(){
-    //site.init({
-    //    debug: true
-    //});
-
     site.feedEm({
         highlight: true,
         highlightColour: 'grey'
