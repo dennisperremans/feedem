@@ -4,7 +4,7 @@
 ## What can you do with jsFeeder?
 
 It will replace the content of your elements with test content. So you can see the when your layout breaks.
-This is to check if your layout doesn't break. For example: check if your navigation doesn't break with menu items with more than 2 words.
+This is to check if your layout doesn't break. For example: check if your navigation doesn't break with menu items with more than 2 words. Or you can use it to insert test content if you don't have your final copy yet.
 
 ## How to use jsFeeder
 
