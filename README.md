@@ -28,5 +28,6 @@ The content "Nav item 1" will be replaced with 2 random words
 <div data-feed="s=5">
     Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 </div>
+```
 
 The content between the div will be replaced with 5 sentences.
