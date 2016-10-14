@@ -90,9 +90,11 @@ var site = {
     }
 };
 
+// LEAVE ALL THE CODE ABOVE -_-
+
 $(function(){
     site.feedEm({
-        highlight: true,
-        highlightColour: 'grey'
+        //highlight: true,
+        //highlightColour: '#eeeeff'
     })
 });

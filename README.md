@@ -7,11 +7,8 @@ It will test your layout to its maximum by testing its tolerance by dynamic cont
 
 ## How to use jsFeeder
 
-Install with npm
+jsFeed is available via `npm install jsFeed`
 
-```
-npm install jsFeed
-```
 
 Include the script right above the closing body tag.
 
@@ -23,9 +20,7 @@ Include the script right above the closing body tag.
 Simple add data-feed attribute to your element to feed your elements with random content.
 Refresh your page and new content will be inserted into your elements.
 
-### How to use jsFeeder
-
-#### Words
+### Words
 
 ```
 <a href="#" data-feed="w=2">Nav item 1</a>
@@ -33,7 +28,7 @@ Refresh your page and new content will be inserted into your elements.
 
 The content "Nav item 1" will be replaced with 2 random words
 
-#### Sentences
+### Sentences
 
 ```
 <div data-feed="s=5">
@@ -43,7 +38,7 @@ The content "Nav item 1" will be replaced with 2 random words
 
 The content between the div will be replaced with 5 sentences.
 
-#### Paragraphs
+### Paragraphs
 
 Sometimes you want to insert paragraphs, jsFeed can do that for you by adding the p value
 
@@ -55,13 +50,22 @@ Sometimes you want to insert paragraphs, jsFeed can do that for you by adding th
 
 2 random paragraphs are added inside the div
 
+## Options
+There is only 1 option at the moment. You can highlight the feeded elements on your by adding the option highlight and highlightColour. Hightlight is default on false.
 
-### F5 the shit out of it!
+```
+$(function(){
+    site.feedEm({
+        highlight: true,
+        highlightColour: '#eeeeff'
+    })
+});
+```
+
+## F5 the shit out of it!
 Keep pressing ctrl + f5 or cmd + f5 to test your layout.
 
 
-
-## To do
+# To do
 1. clean up js
-2. create options (highlight feeded elements)
 3. bower install

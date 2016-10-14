@@ -1,6 +1,6 @@
 {
   "name": "jsFeed",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "It will test your layout to its maximum by testing its tolerance by dynamic content. This way you can see if your layout breaks.",
   "main": "jsFeed.js",
   "repository": {
