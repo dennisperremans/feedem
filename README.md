@@ -53,3 +53,8 @@ Sometimes you want to insert paragraphs, jsFeed can do that for you by adding th
 Keep pressing ctrl + f5 or cmd + f5 to test your layout.
 
 
+
+## To do
+1. clean up js
+2. create options (highlight feeded elements)
+3. bower install
