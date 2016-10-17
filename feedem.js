@@ -1,5 +1,5 @@
 /*
-* jsFeed.js
+* feedem.js
 * author: Dennis Perremans
 * version: 0.0.5
 */
