@@ -7,7 +7,7 @@ It will test your layout to its maximum by testing its tolerance by dynamic cont
 
 ## How to use FeedEm
 
-FeedEm is available via `npm install feedem`
+FeedEm is available via `npm install feedem` or `bower install feedem`
 
 
 Include the script right above the closing body tag.
