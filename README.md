@@ -17,8 +17,8 @@ Include the script right above the closing body tag.
 ```
 
 
-Simple add data-feed attribute to your element to feed your elements with random content.
-Refresh your page and new content will be inserted into your elements.
+Simple add data-feed attribute to your element to feed 'em random content.
+Refresh your page and new content will be feeded to your elements.
 
 ### Words
 
@@ -50,7 +50,7 @@ Sometimes you want to insert paragraphs, jsFeed can do that for you by adding th
 2 random paragraphs are added inside the div
 
 ## Options
-There is only 1 option at the moment. You can highlight the feeded elements on your by adding the option highlight and highlightColour. Hightlight is default on false.
+There is only 1 option at the moment. You can highlight the feeded elements on by adding the option `highlight` and `highlightColour`. Hightlight is default on false.
 
 ```
 $(function(){
