@@ -66,8 +66,7 @@ Keep pressing ctrl + f5 or cmd + f5 to test your layout.
 
 
 # To do
-1. clean up js
-3. bower install
+- Got any ideas for other options?
 
 # License
 MIT License

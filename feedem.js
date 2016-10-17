@@ -81,5 +81,7 @@ var site = {
 
 // LAUNCH PLUGIN HERE
 $(function(){
-    site.feedEm();
+    site.feedEm({
+        //Options here
+    });
 });
