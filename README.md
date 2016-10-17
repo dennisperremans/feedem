@@ -7,7 +7,7 @@ It will test your layout to its maximum by testing its tolerance by dynamic cont
 
 ## How to use FeedEm
 
-jsFeed is available via `npm install feedem`
+FeedEm is available via `npm install feedem`
 
 
 Include the script right above the closing body tag.
@@ -44,7 +44,6 @@ Sometimes you want to insert paragraphs, jsFeed can do that for you by adding th
 
 ```
 <div data-feed="p=2">
-    
 </div>
 ```
 
@@ -69,3 +68,26 @@ Keep pressing ctrl + f5 or cmd + f5 to test your layout.
 # To do
 1. clean up js
 3. bower install
+
+# License
+MIT License
+
+Copyright (c) 2016 Dennis Perremans
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
