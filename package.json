@@ -1,11 +1,11 @@
 {
-  "name": "jsFeed",
-  "version": "0.0.4",
+  "name": "feedem",
+  "version": "0.0.5",
   "description": "It will test your layout to its maximum by testing its tolerance by dynamic content. This way you can see if your layout breaks.",
-  "main": "jsFeed.js",
+  "main": "feedem.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dennisperremans/jsFeed.git"
+    "url": "https://github.com/dennisperremans/feedem.git"
   },
   "keywords": [
     "layout",
@@ -16,7 +16,7 @@
   ],
   "author": "Dennis Perremans <perremansdennis@gmail.com>",
   "bugs": {
-    "url": "https://github.com/dennisperremans/jsFeed/issues"
+    "url": "https://github.com/dennisperremans/feedem/issues"
   },
-  "homepage": "https://github.com/dennisperremans/jsFeed/"
+  "homepage": "https://github.com/dennisperremans/feedem/"
 }
