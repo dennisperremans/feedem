@@ -1,19 +1,19 @@
 
-# jsFeeder - test your design's tolerance for dynamic content
+# FeedEm - test your design's tolerance for dynamic content
 
-## What can you do with jsFeeder?
+## What can you do with FeedEm?
 
 It will test your layout to its maximum by testing its tolerance by dynamic content. This way you can see if your layout breaks. If it breaks, fix it! For example: check if your navigation doesn't break with menu items with more than 2 words. Or you can use it to insert test content if you don't have your final copy yet.
 
-## How to use jsFeeder
+## How to use FeedEm
 
-jsFeed is available via `npm install jsFeed`
+jsFeed is available via `npm install feedem`
 
 
 Include the script right above the closing body tag.
 
 ```
-<script src="path/jsfeed.js"></script>
+<script src="path/feedem.js"></script>
 ```
 
 
